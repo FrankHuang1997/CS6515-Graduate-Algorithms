@@ -1,0 +1,16 @@
+"zero", 100, 465
+"one", 85, 400
+"two", 55, 255
+"three", 45, 350
+"four", 130, 650
+"five", 190, 1000
+"six", 100, 455
+"seven", 25, 100
+"eight", 190, 1200
+"nine", 65, 320
+"ten", 100, 750
+"eleven", 45, 50
+"twelve", 65, 550
+"thirteen", 50, 100
+"fourteen", 70, 600
+"fifteen", 40, 255
